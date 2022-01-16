@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mikolaj.Samulak.Service1.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mikolaj.Samulak.Service2", "Mikolaj.Samulak.Service2\Mikolaj.Samulak.Service2.csproj", "{DFD430A7-D75E-4313-B4F5-6CE5044D7579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mikolaj.Samulak.Service2.Tests", "Mikolaj.Samulak.Service2.Tests\Mikolaj.Samulak.Service2.Tests.csproj", "{53517321-9BDD-4FC2-A8D2-2F955BD6CA83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{DFD430A7-D75E-4313-B4F5-6CE5044D7579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFD430A7-D75E-4313-B4F5-6CE5044D7579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFD430A7-D75E-4313-B4F5-6CE5044D7579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53517321-9BDD-4FC2-A8D2-2F955BD6CA83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53517321-9BDD-4FC2-A8D2-2F955BD6CA83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53517321-9BDD-4FC2-A8D2-2F955BD6CA83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53517321-9BDD-4FC2-A8D2-2F955BD6CA83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
