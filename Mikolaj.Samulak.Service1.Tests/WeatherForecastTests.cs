@@ -5,7 +5,7 @@ using Xunit;
 
 namespace Mikolaj.Samulak.Service1.Tests
 {
-    class WeatherForecastTests
+    public class WeatherForecastTests
     {
         [Fact]
         public void Generate_Test()
