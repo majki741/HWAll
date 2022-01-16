@@ -13,7 +13,7 @@ namespace Mikolaj.Samulak.Service1.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing_Serv1", "Bracing_Serv1", "Chilly_Serv1", "Cool_Serv1", "Mild_Serv1", "Warm_Serv1", "Balmy_Serv1", "Hot_Serv1", "Sweltering_Serv1", "Scorching_Serv1"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
